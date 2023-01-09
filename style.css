@@ -1,0 +1,29 @@
+body{
+    background-color: #b18c5b;
+}
+h1{
+    background-color: #725724;
+    color: #dfc6c6;
+    display: flex;
+    justify-content: center;
+    font-size: 65px;
+    font-style: italic;
+}
+.box1{
+  text-align: center;
+}
+.box{
+    width: 77px;
+    height: 77px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    font-size: 55px;
+    text-align: center;
+    cursor: pointer;
+
+}
+.black{
+    background-color: #401f00;
+    color: white;
+}
